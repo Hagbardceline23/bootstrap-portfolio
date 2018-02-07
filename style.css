@@ -1,0 +1,38 @@
+.container {
+    background-color: grey;
+    font: ariel;
+    padding: 0;
+}
+    .header{
+        background-color: white;
+        margin: 0;
+    }
+
+    .header{
+        background-color: white;
+        margin: 0;
+     
+      }
+
+      h1 {
+        background-color: teal;
+        color: white;
+        font: 18px;
+        padding: 10px;
+        margin-bottom: 0;
+      }
+
+      .nav {
+        color: black;
+      padding: 10px;
+      }
+
+      h2{ 
+        font: 18px;
+        color: white;
+      }
+
+      h3{
+        font: 10px;
+        color: antiquewhite;
+      }
