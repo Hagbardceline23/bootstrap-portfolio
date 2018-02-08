@@ -2,6 +2,7 @@
     background-color: grey;
     font: ariel;
     padding: 0;
+    
 }
     .header{
         background-color: white;
@@ -10,7 +11,7 @@
 
     .header{
         background-color: white;
-        margin: 0;
+        margin-bottom: 0;
      
       }
 
@@ -20,6 +21,7 @@
         font: 18px;
         padding: 10px;
         margin-bottom: 0;
+        
       }
 
       .nav {
@@ -30,9 +32,27 @@
       h2{ 
         font: 18px;
         color: white;
+        margin-top: 20px;
+        margin-bottom: 20px;
       }
 
       h3{
         font: 10px;
         color: antiquewhite;
       }
+
+      p{
+        font: 20px;
+        font: georgia;
+        margin-bottom: 40px;
+
+      }
+
+
+      .footer {
+        Background-color:teal;
+        height: 70px; 
+        padding-top: 20px;
+        color: black;
+
+        }
