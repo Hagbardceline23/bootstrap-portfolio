@@ -53,7 +53,7 @@
         padding: 20px;
         margin-top: 60px;
         margin-bottom: 60px;
-        border: 1px solid teal;
+      
       }
 
       p{
@@ -74,9 +74,26 @@
         font-size: 40px;
         margin-top: 60px;
         margin-right: 40px;
-        border: 1px solid teal;
+        
       }
 
+      #spacer{
+        margin-top: 100px;
+        padding: 200px;
+      }
+
+      #spacer2{
+        margin-top: 100px;
+        padding: 100px;
+      }
+
+      #contact ul {
+        margin-bottom: 20px;
+      }
+      
+      #contact li {
+        margin-bottom: 10px;
+      }
 
       .footer {
         Background-color:teal;
