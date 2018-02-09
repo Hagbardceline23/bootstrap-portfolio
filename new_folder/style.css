@@ -30,25 +30,51 @@
       }
 
       h2{ 
-        font: 18px;
-        color: white;
+        font: 30px;
+        color: teal;
         margin-top: 20px;
         margin-bottom: 20px;
+        margin-left: 20px;
+        font: 40px;
       }
 
       h3{
         margin-top: 20px;
+        margin-right: 0px;
+      
         font: 10px;
-        background-color: white;
+        color: teal;
+        padding: 20px;
+
+     }
+
+      #main_content{
+        background: white;
+        padding: 20px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        border: 1px solid teal;
       }
 
       p{
-        font: 20px;
+        font: 30px;
         font: georgia;
-        margin-bottom: 40px;
+        margin: 0px;
         background-color: white;
+        color: #666;
         padding: 20px;
 
+      }
+
+      #connect{
+        background: white;
+        margin: 40px;
+        padding: 30px;
+        padding-right: 0;
+        font-size: 40px;
+        margin-top: 60px;
+        margin-right: 40px;
+        border: 1px solid teal;
       }
 
 
@@ -56,6 +82,7 @@
         Background-color:teal;
         height: 70px; 
         padding-top: 20px;
-        color: black;
+        background: #666;
+        border-top: 8px solid #4aaaa5;
 
         }
