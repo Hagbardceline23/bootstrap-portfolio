@@ -1,6 +1,4 @@
-
-
-<!doctype html>
+ !doctype html>
 <html lang="en">
 
 <head>
@@ -31,8 +29,6 @@
   
 <div class ="col-md-4">
 
-<header>
-
 
 
           <h1>Robert Prince</h1>
@@ -40,7 +36,7 @@
         <div class="col-md-5">
         </div>
         <div class="col-md-3">
-          
+          <div class="col-md-3">
             <div id="nav-bar">
               <nav>
                 <a href="index4.html">About</a>
@@ -85,9 +81,9 @@
 
             
             <h3>connect with me</h3>
-            <a href="https://www.linkedin.com/in/robert-prince-05789a158/"><img src="new_folder/images/if_linkedin_410519.png" class="social"/></a>
-            <a href="https://www.facebook.com/profile.php?id=100023860672290"><img src="new_folder/images/if_facebook_43141.png" class ="social"/></a>
-            <a href="https://github.com/"><img src="new_folder/images/if_github_alt_177203.png" class="social"/></a>
+            <a href="#"><img src="new_folder/images/if_linkedin_410519.png" class="social"/></a>
+            <a href="#"><img src="new_folder/images/if_facebook_43141.png" class ="social"/></a>
+            <a href="#"><img src="new_folder/images/if_github_alt_177203.png" class="social"/></a>
 
             
 </div>
@@ -107,4 +103,3 @@
     </div>
     </div>
 </body>
-<html/>

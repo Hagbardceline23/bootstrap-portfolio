@@ -1,16 +1,18 @@
-.container {
+
+
+  .container {
     background: url(images/concrete_seamless.png);
     font: ariel;
     padding: 0;
     
 }
     .header{
-        background-color: white;
+        background-color:;
         margin: 0;
     }
 
     .header{
-        background-color: white;
+        background-color;
         margin-bottom: 0;
      
       }
@@ -24,10 +26,17 @@
         
       }
 
-      .nav {
-        color: black;
+       #nav-bar{
+         font-size: 18px;
+        background-color: white;
+        color: teal;
       padding: 10px;
-      }
+      margin: 0px;
+      margin-right: 40px;
+      height: 60px;
+    
+
+       }
 
       h2{ 
         font: 30px;
@@ -55,6 +64,8 @@
         margin-bottom: 60px;
       
       }
+
+
 
       p{
         font: 30px;
